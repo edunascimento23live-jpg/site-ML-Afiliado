@@ -3,7 +3,7 @@
 Site estático em HTML, CSS e JavaScript. Não usa banco de dados, não exige instalação de dependências e pode ser hospedado em serviços estáticos.
 
 ## Arquivos
-- `index.html`: página inicial.
+- `index.html`: página inicial com catálogo inicial de cinco produtos e links de afiliado fornecidos pelo proprietário.
 - `styles.css`: identidade visual preta e dourada, responsiva.
 - `script.js`: menu móvel e ano automático.
 - `guias/`: três artigos iniciais.
@@ -15,7 +15,7 @@ Site estático em HTML, CSS e JavaScript. Não usa banco de dados, não exige in
 1. Confirme o nome da marca e verifique disponibilidade de domínio e marca.
 2. Troque `SEU_EMAIL_AQUI` pelo seu contato real.
 3. Coloque links dos seus perfis públicos cadastrados no programa.
-4. Nos artigos, substitua os espaços reservados por links de afiliado reais, gerados no portal oficial para páginas específicas de produtos. Não invente links.
+4. A página inicial já contém cinco links de afiliado fornecidos pelo proprietário. Teste cada botão publicado. Os espaços reservados nos artigos ainda precisam ser substituídos por links reais antes de afirmar que esses artigos recomendam os mesmos produtos.
 5. Atualize preços e especificações manualmente antes de publicar qualquer comparação.
 6. Cadastre o site nos canais do Programa de Afiliados do Mercado Livre e confirme as regras vigentes.
 7. Mantenha a identificação de publicidade/afiliado clara.
